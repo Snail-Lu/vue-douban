@@ -1,2 +1,2 @@
 # vue-douban
-vue pratice project
+vue practice project
